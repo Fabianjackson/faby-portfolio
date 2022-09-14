@@ -1,0 +1,88 @@
+.list{
+    font-family: 'Roboto Mono';
+    color: #BFBFBF;
+    font-size: 14px;
+}
+.hello{
+    font-family: 'Roboto Mono';
+    font-size: 16px;
+}
+.fabian{
+    font-family: 'Bebas Neue';
+    font-size: 90px;
+    font-weight: 700;
+   margin-top:-35px;
+}
+.jackson{
+    color: #29dea8;
+}
+.musician{
+    color: #BFBFBF;
+    font-size: 40px;
+    margin-top: -25px;
+    font-family: 'Bebas Neue';
+}
+.pianist{
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #BFBFBF;
+}
+.icon{
+    gap: 30px;
+    font-size: 30px;
+    display: flex;
+    margin-top: 60px;
+}
+.hi{
+color: #FFFFFF;
+font-size: 15px;
+font-family:Roboto Mono;
+opacity: 0.9;
+}
+.textone{
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 38px;
+    color: #BFBFBF;
+}
+.reach{
+   color: #FFFFFF;
+   font-size: 18px;
+   font-family:Roboto Mono;
+   opacity: 0.9;
+}
+.have{
+    top: 3219px;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 38px;
+    color: #BFBFBF;
+}
+.link{
+    height: 38px;
+    top: 3310px;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 38px;
+    text-decoration-line: underline;
+    color: #29DEA8;
+}
+.find{
+    height: 38px;
+    margin-top: 30px;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 38px;
+    color: #BFBFBF;
+    }
